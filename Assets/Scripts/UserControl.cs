@@ -12,6 +12,7 @@ public class UserControl : MonoBehaviour
     public Camera GameCamera;
     public float PanSpeed = 10.0f;
     public GameObject Marker;
+    public string deneme = "deneme";
     
     private Unit m_Selected = null;
 
